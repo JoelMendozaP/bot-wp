@@ -1,13 +1,12 @@
 {
-    "type": "",
-    "project_id": "",
-    "private_key_id": "",
-    "private_key":"",
-    "client_email": "",
-    "client_id": "",
-    "auth_uri": "",
-    "token_uri": "",
-    "auth_provider_x509_cert_url": "",
-    "client_x509_cert_url":""
-  }
-  
+  "type": "service_account",
+  "project_id": "bot-wp-bidx",
+  "private_key_id": "dcadd3456327bb96106126fed1de46b952086da1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeCRgWSMLWVaJU\nEl8T/bu7kPcGdBZg7EeuhcOxHwjTZGalvdQPDf7gs/vJEJWlsGzah5/Cgsqo65sE\nVrHK2tUjs18wLXPpq7uKP5YOtbwoq9Zpc2vCawb3T0VFsVJMM3sQb0TbzoAI8Jto\nBN95qSO16l3fEFtPQV2X0PLqVN10G0CxNKy5VZ/hRIC2//UvPZd3w3tEB9f3Gx3z\nNh77qd839z/iNxbPuOBS0Z0NQC9dFqvgofLT/cyBs75WSys2ob6Bqz3gBBJld8r8\nYAV5KMThUsd2WXnBdWrTo3+2jdSngbHAIYSorCDcRBJDGez6GUrtFgyCfT0AdccR\nFTQ3jOGXAgMBAAECggEATg3t0KvVV6lqCJ4eSbBrtcNuzsgteWeaK++zbNsIL+iJ\n7lio0Vq3RWJ//JntX62YxgJwfNC+qdnccbMkEy4sUXq5jAEXHBWPBkRLqC5Ipcnh\nl6nDUn4sLaAAdeCT5kETClX6q5n9kOzNxP2LJvrMQYBlJtRcVPPS9zXjlKufyUUZ\nk/HJfkruhQmrrjtKfKFFeM5W0PWiP4eUZDCzyCfYk92mXqL0VCfj4lMh04RpYgDi\nZxTl3CxkvxZPalozboas9jWl4owoZW8/PCc9oBMgpxYTwQxCacyse8HbtZU0PF3h\nlaVacJsSJJPK19WgEmxzfK5gwLw/3Fn95jQrOB2iUQKBgQDVHAKA4LQpEBv31c0N\nG5nbd5MBqt6MdqYsiO5mAAcSsX95C9SgxsaiPAWaPLEEYzy8z1jeaE8sLrMyd6EN\njgIgjFD19pq8fS1eNZikw3vwfmD/Vx89YcMz5ARwTfaCAfuouhv2qI0wgZxXVOC4\nZLNF2LRMgR7FXCTd/PfajeQ5rwKBgQC914Yy5nW41wZxK3yIJMGSz6OC8bJgZUKC\nXJDIyS5DzNi0gq7mYOwKrh2rDbFBbwanqMKnggnOtqUJnU8ojyX92oFflM2CR2ut\nFnLFavh0rCiLJOXig3eLfFDy/R58Vlb4aS7IWBISwJWXjK41fiJ0peWeMb9EMLrm\n+SkxvKIYmQKBgQCxbZSYAH1/Aq6GdTc3hpdepft7E+wePlq0EX2K5tL8uVNMUJFD\nGrweLqLre0RWRtk2ydtPsMDaJDeF+RvZ0TXsK2bsodjKvd2b5jukUi1KWa4gaUTV\nMiP3fAxGBGMMcuI35FuLzWFf1Ul5XG2MmCq6KGZUm9wmrUT0nb0t9ZzieQKBgAlv\n/3HkVxHbTqytlsFF4oGj5OMLlOyJ3CaS53ez2KLyOguvO3akdteJFFx+j8NK+6+2\nCgc9xbMLDWVO9rJze1YFWM0hnp3NYyL1rLr3uGZEcLeKHAuIsZazlWqe/rb7q9Mp\nl3PKPQvFmyovijGKlbfqz2Fv46xGJ+R3mn6oe/5xAoGBAK7XhXD9j6FQw29nHy6a\njzMTWottpTOXfjT0KiHNW1S9StETN7bq8NvTG/eOgl9g1XoJXdErPxnIay0XGcIr\n8fS1Rb8AA+Mx9N9LE30Z2pUDAxp76KfJZUdMn4erxf7fO0AO7GQ8hNjBsciHkptW\nUmCLWQWdcsIb7Gr9OZGb4nx7\n-----END PRIVATE KEY-----\n",
+  "client_email": "botwhatsapp@bot-wp-bidx.iam.gserviceaccount.com",
+  "client_id": "110596841265594753663",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/botwhatsapp%40bot-wp-bidx.iam.gserviceaccount.com"
+}
